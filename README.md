@@ -17,3 +17,4 @@
 
 
 ![Godrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=HavannaOnana&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HavannaOnana&hide_progress=true)
