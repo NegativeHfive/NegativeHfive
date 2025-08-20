@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Godrine Manu</h1>
+<h1 align="center">Hi 👋, I'm Godrine</h1>
 <h3 align="center">A software developer student currently studying Software Developer Niveau 4 Mbo</h3>
 
 - 🌱 I’m currently learning **the basics of programming by building projects**
-
-- 📫 How to reach me **godrinesarf04@gmail.com**
 
 - ⚡ Fun fact **I have twists**
 
