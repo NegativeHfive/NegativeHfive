@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently building my back-end skills<br>Fun fact - I have twists
+I'm just a guy<br>Fun fact - I have twists
 
 
 # 💻 Tech Stack:
