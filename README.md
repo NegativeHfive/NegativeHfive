@@ -64,15 +64,4 @@ Hi there! I'm **Godrine**. I like to program, and I enjoy learning new technolog
 
 
 
-## 📈 GitHub Overview
-
-<div align="center">
-
-<img width="29%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NegativeHfive&theme=default"/>
-
-</div>
-
-
-
-<br/>
 
