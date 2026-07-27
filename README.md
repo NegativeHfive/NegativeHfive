@@ -34,9 +34,6 @@ Hi there! I'm **Godrine**. I like to program, and I enjoy learning new technolog
 <div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NegativeHfive&theme=default"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NegativeHfive&theme=default"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NegativeHfive&theme=default&utcOffset=8"/>
 
 </div>
 
