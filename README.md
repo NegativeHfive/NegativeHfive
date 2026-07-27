@@ -1,41 +1,8 @@
 <img width="1980" height="500" alt="Github (2)" src="https://github.com/user-attachments/assets/5cf8cacd-934f-4d31-9bbc-4adea50b7237" />
 
-<div align="center">
-
-<div align="center">
-
-<a href="https://github.com/NegativeHfive/Airport-Drenthe-public-repo">
-  <img src="https://opengraph.githubassets.com/1/NegativeHfive/Airport-Drenthe-public-repo" width="45%"/>
-</a>
-<a href="https://github.com/NegativeHfive/league-simulator">
-  <img src="https://opengraph.githubassets.com/1/NegativeHfive/league-simulator" width="45%"/>
-</a>
-
-</div>
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D4739?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2D4739?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-</div>
-
-<br/>
-
 ## 💫 About Me
 
 Hi there! I'm **Godrine**. I like to program, and I enjoy learning new technologies and solving problems along the way.
-
-<br/>
-
-## 📈 GitHub Overview
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NegativeHfive&theme=default"/>
-
-</div>
 
 <br/>
 
@@ -49,6 +16,8 @@ Hi there! I'm **Godrine**. I like to program, and I enjoy learning new technolog
 ![PHP](https://img.shields.io/badge/php-2D4739.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-2D4739.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-2D4739.svg?style=for-the-badge&logo=javascript&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D4739?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2D4739?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 ![Laravel](https://img.shields.io/badge/laravel-2D4739?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-2D4739?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -74,11 +43,27 @@ Hi there! I'm **Godrine**. I like to program, and I enjoy learning new technolog
 
 <div align="center">
 
+<br/>
+
 ### Godrine's Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NegativeHfive&bg_color=FFFFFF&color=2D4739&line=2D4739&point=3D5A4C&area=true&hide_border=true" width="90%"/>
 
 </div>
+
+<br/>
+
+
+
+## 📈 GitHub Overview
+
+<div align="center">
+
+<img width="29%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NegativeHfive&theme=default"/>
+
+</div>
+
+
 
 <br/>
 
