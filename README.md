@@ -37,7 +37,7 @@ Hi there! I'm **Godrine**. I like to program, and I enjoy learning new technolog
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-lilac-omega-20.vercel.app/api?username=NegativeHfive&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=2D4739&icon_color=2D4739&text_color=333333&border_color=2D4739"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=NegativeHfive&hide_border=true&background=FFFFFF&stroke=2D4739&ring=2D4739&fire=2D4739&currStreakLabel=2D4739&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=999999"/>
+<!-- <img height="165" src="https://streak-stats.demolab.com/?user=NegativeHfive&hide_border=true&background=FFFFFF&stroke=2D4739&ring=2D4739&fire=2D4739&currStreakLabel=2D4739&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=999999"/> -->
 <img height="165" src="https://github-readme-stats-lilac-omega-20.vercel.app/api/top-langs/?username=NegativeHfive&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2D4739&text_color=333333"/>
 
 <br/><br/>
