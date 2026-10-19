@@ -54,13 +54,7 @@ Hi there! I'm **Godrine**. I like to program, and I enjoy learning new technolog
 
 <br/>
 
-### Godrine's Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NegativeHfive&bg_color=FFFFFF&color=2D4739&line=2D4739&point=3D5A4C&area=true&hide_border=true" width="90%"/>
-
-</div>
-
-<br/>
 
 
 
